@@ -1,0 +1,34 @@
+Crie um algoritmo em Portugol que verifique se a idade inserida por um usuário é maior ou igual a 18 anos.
+
+
+
+programa
+
+{
+
+	
+
+	funcao inicio()
+
+	{
+
+inteiro idade 
+
+escreva ("você é maior de idade?\n")
+
+escreva ("Digite sua idade ")
+
+leia (idade)
+
+se (idade>=18) {
+
+escreva("você e maior de idade")
+
+}senao	
+
+escreva ("você e menor de idade")
+
+
+	}
+
+}
