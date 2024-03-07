@@ -1,0 +1,40 @@
+Escreva um algoritmo em Portugol que verifique 
+
+se um número é positivo e par.
+
+	
+
+
+programa {
+
+  funcao inicio() {
+
+inteiro valor
+
+escreva("Digite um numero inteiro positivo: ") 
+
+leia(valor)
+
+//resto da divisão de num por 2 é igual a 1?
+
+
+se (valor  % 2 == 1)
+
+ {
+
+escreva ("Impar...\n")
+
+}
+
+Senao{ 
+
+escreva ("Par...\n")
+
+(valor)
+
+}
+
+
+  }
+
+}
