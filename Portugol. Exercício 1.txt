@@ -1,0 +1,38 @@
+programa
+
+{
+
+	
+
+	funcao inicio()
+
+	{
+// Projeto      : Média dos números
+
+ // Data atual    : 08/02/2023  
+
+      
+
+inteiro valor1, valor2, valor3, media
+
+
+escreva ("digite o 1  numero:\n")
+
+leia(valor1)
+
+escreva ("Digite o 2 numero:\n")
+
+leia (valor2)
+
+escreva ("Digite o 3 numero:\n")
+
+leia (valor3)
+
+media = (valor1) + (valor2) + (valor3) /3
+
+escreva (media)
+
+
+	}
+
+}
